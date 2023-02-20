@@ -42,9 +42,6 @@
 * [`ft_memchr`](ft_memchr.c) - search for a byte in the first n bytes of a byte stream.
 * [`ft_memcmp`](ft_memcp.c) - compare two byte streams.
 
-### Functions from `<math.h>`
-* [`ft_pow`](ft_pow.c) - power function.
-
 ### Nonstandard functions
 * [`ft_itoa`](ft_itoa.c) - returns a malloc'd string from an int. 
 * [`ft_strndup`](ft_strndup.c) - returns a malloc'd copy of the first n bytes of a string.
